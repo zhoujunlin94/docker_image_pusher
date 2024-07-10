@@ -1,3 +1,15 @@
+canal/canal-server:v1.1.4
+bitnami/kafka:3.4.1
+mysql:5.7.42
+nacos/nacos-server:v2.0.4
+redis:6.2.6
+apache/rocketmq:4.8.0
+apacherocketmq/rocketmq-dashboard
 seataio/seata-server:1.6.0
-#支持指定架构
---platform=linux/arm64 seataio/seata-server
+bladex/sentinel-dashboard
+xuxueli/xxl-job-admin:2.1.0
+
+# 支持指定架构
+# --platform=linux/arm64 seataio/seata-server
+# 支持私库
+# /xxx/yyy/zzz:1.0

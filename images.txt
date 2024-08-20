@@ -8,6 +8,7 @@ apacherocketmq/rocketmq-dashboard
 seataio/seata-server:1.6.0
 bladex/sentinel-dashboard
 xuxueli/xxl-job-admin:2.1.0
+--platform=linux/amd64 flink:scala_2.12-java8
 
 # 支持指定架构
 # --platform=linux/arm64 seataio/seata-server
